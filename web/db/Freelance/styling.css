@@ -1,0 +1,25 @@
+.table1 {
+    width:400px;
+    margin:auto;
+    font-size:14px;
+    border:1px solid #000;
+    border-collapse:collapse;
+    padding: 8px;
+}
+
+.table1 th {
+    color:#000;
+    vertical-align:middle;
+    text-align:center;
+    border: 1px solid #000;
+    padding: 8px;
+}
+
+.table1 td {
+    color:#000099;
+    vertical-align:middle;
+    text-align:left;
+    border:1px solid #000;
+    padding: 8px;
+}
+
